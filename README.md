@@ -1,8 +1,8 @@
-# _{Application Name}_
+# _Triangle Tracker_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _{Brief description of application}, December 9th 2020_
 
-#### By _**{List of contributors}**_
+#### By _**Garrett Brown**_
 
 ## Description
 
@@ -24,7 +24,7 @@ _{Are there issues that have not yet been resolved that you want to let users kn
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_For support contact Garrett Brown <garrettpaulbrown@gmail.com>_
 
 ## Technologies Used
 
@@ -32,6 +32,6 @@ _{Tell me about the languages and tools you used to create this app. Assume that
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Available under the MIT License*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2020 **_Garrett Brown_**
